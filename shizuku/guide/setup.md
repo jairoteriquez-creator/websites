@@ -1,4 +1,5 @@
-# User manual
+List of devices attached
+XXX      device# User manual
 
 [[toc]]
 
